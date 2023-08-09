@@ -6,7 +6,7 @@
 
 Hello diligent Minecraft coders and players,
 
-We, the team at @ByteMCNetwork, have created this GitHub profile to showcase some of our projects to the public. If you find our endeavors appealing, we would greatly appreciate any feedback you might have to offer.
+We, the team at `@ByteMCNetwork`, have created this GitHub profile to showcase some of our projects to the public. If you find our endeavors appealing, we would greatly appreciate any feedback you might have to offer.
 
 Our intention is to provide a platform where our creative and technical work can be observed and engaged with by the Minecraft community and fellow coding enthusiasts. By making our projects accessible in this manner, we aim to foster collaboration, exchange ideas, and contribute positively to the evolving landscape of Minecraft gaming.
 
