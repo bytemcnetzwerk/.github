@@ -1,8 +1,6 @@
-<p>
-    <h3 align="left">ByteMCNetzwerk
-      <p align="right"> <img src="https://komarev.com/ghpvc/?username=ByteMCNetzwerk&label=Profile%20views&color=e6a40b&style=flat" /> </p>
-    </h3>
-</p>
+<h3 align="left">ByteMCNetzwerk
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=ByteMCNetzwerk&label=Profile%20views&color=e6a40b&style=flat" /> </p>
+</h3>
 
 Hello diligent Minecraft coders and players,
 
