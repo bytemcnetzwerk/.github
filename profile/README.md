@@ -8,7 +8,7 @@ We, the team at `@ByteMCNetwork`, have created this GitHub profile to showcase s
 
 Our intention is to provide a platform where our creative and technical work can be observed and engaged with by the Minecraft community and fellow coding enthusiasts. By making our projects accessible in this manner, we aim to foster collaboration, exchange ideas, and contribute positively to the evolving landscape of Minecraft gaming.
 
-<a href="discord.bytemc.de](https://discord.com/invite/tSYXG8yCB8">
+<a href="https://discord.bytemc.de/">
          <img alt="ByteMC Discord" src="https://discord.com/api/guilds/1039109366361620550/widget.png?style=banner2">
 </a>
 <p></p>
